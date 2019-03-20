@@ -1,4 +1,4 @@
-# Geospatial_Terror_ThreatLevel_Predictor
+# Geospatial Terror Threat Level Predictor
 This was made During Hackfest'19(36 hour Hackathon)
 
 ## **Glimpse Of Our Tool**
