@@ -23,5 +23,5 @@ python temp.py
 - **GTD.py** : Data preprocessing
 - **encoded.csv** : Final Encoded Dataset ready for Training
 - **ANN.py** : Deep Learning Model for Prediction
-- **temp.py** : Final Server File
+- **temp.py** : Dash File used for making the Geo-exploration tool
 - **model.sav** : Trained Model
